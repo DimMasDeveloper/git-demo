@@ -1,4 +1,10 @@
 sword and spear
 wall of shields
 standing strong
+<<<<<<< HEAD
 on this their chosen battle field
+=======
+on this their chosen battle field
+
+Just text
+>>>>>>> 67bddbddac443a19f412e6464101f1a528917f0f
